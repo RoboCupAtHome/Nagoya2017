@@ -1,7 +1,7 @@
 ,Golem,Northeastern,Hibikino-Musashi@Home DSPL,UChile Homebreakers,SPQReL,University of California San Diego,Duckers,Austin Villa,UChile Peppers,Triton UC San Diego,"JSK@Home, DSPL",WrightEagle,AUPAIR,TechUnited,WalkingMachine
 Services,,,,,,,,,,,,,,,
-Rospeex,,,x,,,,x,,,,,,,,x
-Google Speech API: https://cloud.google.com/speech/,,,,x,x,,,,x,x,x,,x,,
+Rospeex,,,x,,,,x,,,,,,,,
+Google Speech API: https://cloud.google.com/speech/,,,,x,x,,,,x,x,x,,x,,x
 Microsoft Cognitive Services: https://azure.microsoft.com/en-us/services/cognitive-services/,x,,,,,,,,,,,x,,,
 Google Cloud SDK,,x,,,,,,,,,,,,,x
 Web Speech API (https://dvcs.w3.org/hg/speech-api/raw-file/tip/speechapi.html),,,x,,,,,,,,,,,,
